@@ -1,9 +1,12 @@
 * ### **Dzmitry Dauhaliavets**
 * #### **Location: Belarus, Minsk**
-* **+375-29-764-07-99** [My mail #1](dolgolevets_8499@mail.ru), [My mail #2](dolgolevets21@gmail.com)
+* **+375-29-764-07-99** *[My mail #1](dolgolevets_8499@mail.ru)*, *[My mail #2](dolgolevets21@gmail.com)*
+
 * *My goal: to become a fronend developer. Currently, I am self-educating and striving to learn new things. Conscientious about completing tasks.*
 * *I have good knowledge of HTML5, CSS, SCSS. There is experience (not commercial) of layout based on ready-made layouts. Basic knowledge of JavaScript, Git. I am constantly improving my knowledge, developing in the direction of Frontend development.*
-```function closeLoad() {
+* Code examples:
+```
+    function closeLoad() {
             var load = document.getElementById("load");
             load.style.display = "none";
         }
